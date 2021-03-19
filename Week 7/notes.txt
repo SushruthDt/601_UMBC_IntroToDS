@@ -1,0 +1,4 @@
+part1: visualization are off. you are averaging the hour. 
+part2: nice
+
+85 
