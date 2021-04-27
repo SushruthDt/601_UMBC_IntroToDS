@@ -1,0 +1,6 @@
+part1 looks good. only issue is the graph. the value that you are changing is size not time. so x and y should be switched
+
+part2 - histogram does it look meaningful? 
+can you see the ages? (you should have converted to numbers)
+
+95
